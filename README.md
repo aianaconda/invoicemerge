@@ -9,7 +9,7 @@ https://www.aianaconda.com/index/DownloadCode
 https://bbs.aianaconda.com/forum-94-1.html
 ———————————————————————————————————————————————————————————
 
-功能介绍
+功能介绍：
 可以爬取自己的邮箱，自动下载。将2或3张合并到一个A4纸上打印，这样能够省纸。还可以统计发票金额
 
 <img src="https://github.com/aianaconda/invoicemerge/blob/main/1111.png" width="400" />
