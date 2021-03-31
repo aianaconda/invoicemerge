@@ -1,5 +1,5 @@
 # invoicemerge
-电子发票小助手，支持统计，合并，邮件爬取自动下载
+电子发票小助手，支持统计，合并，邮件爬取自动下载,生成报销单
 
 该软件使用Python语言开发，目前是一个windows下的exe程序。欢迎免费使用。以后还会定期升级。
 
@@ -20,6 +20,6 @@ https://bbs.aianaconda.com/forum-94-1.html
 <img src="https://github.com/aianaconda/invoicemerge/blob/main/1111.png" width="400" />
 <img src="https://github.com/aianaconda/invoicemerge/blob/main/2222.png" width="200" />
 <img src="https://github.com/aianaconda/invoicemerge/blob/main/3333.png" width="200" />
-
+<img src="https://github.com/aianaconda/invoicemerge/blob/main/4444.png" width="200" />
 
 
